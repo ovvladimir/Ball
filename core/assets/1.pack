@@ -1,0 +1,40 @@
+
+11.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+neon
+  rotate: false
+  xy: 2, 2
+  size: 480, 360
+  orig: 480, 360
+  offset: 0, 0
+  index: -1
+You win
+  rotate: false
+  xy: 484, 2
+  size: 566, 92
+  orig: 566, 92
+  offset: 0, 0
+  index: -1
+Game over
+  rotate: false
+  xy: 1052, 2
+  size: 603, 75
+  orig: 603, 75
+  offset: 0, 0
+  index: -1
+ball
+  rotate: false
+  xy: 2, 364
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+bowl
+  rotate: false
+  xy: 2, 432
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
